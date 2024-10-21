@@ -1,7 +1,9 @@
-     public class App {
+//Java koodi
+
+public class App {
     public static void main(String[] args) {
         
-        String tekija = "Oma Nimi"; 
+        String tekija = "Samuel"; 
         double luku1 = 5; 
         double luku2 = 2;
         
